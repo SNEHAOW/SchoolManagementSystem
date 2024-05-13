@@ -24,7 +24,7 @@ To use the School Management System, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE.
-3. Run the `SoccerTeamTest` class to execute the test cases and ensure code functionality.
+3. Run the `SchoolManagerTest` class to execute the test cases and ensure code functionality.
 4. Explore the `SchoolManager`, `Employee`, `Container`, `MyList`, and `MySet` classes to understand their roles and functionalities.
 
 ## Project Structure
@@ -34,5 +34,5 @@ To use the School Management System, follow these steps:
 - `Container.java`: A container class that stores objects in an array-like structure.
 - `MyList.java`: Simulates an ArrayList concept for adding an unlimited number of elements to the list.
 - `MySet.java`: Simulates a custom set that stores unique elements.
-- `SoccerTeamTest.java`: Contains test cases to verify the functionality of the project.
+- `SchoolManagerTest.java`: Contains test cases to verify the functionality of the project.
 
